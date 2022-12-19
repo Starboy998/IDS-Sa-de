@@ -4,4 +4,4 @@ Tarefa da disciplina de Introdução a Data Science, com finalidade de explorar 
 
 EDA
 
-Dados etraídos de: https://datasus.saude.gov.br/informacoes-de-saude-tabnet/
+Dados extraídos de: https://datasus.saude.gov.br/informacoes-de-saude-tabnet/
